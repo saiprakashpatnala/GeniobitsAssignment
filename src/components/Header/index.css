@@ -1,0 +1,22 @@
+.nav-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-height: 5vh;
+  justify-content: space-between;
+  padding: 20px;
+}
+.title-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button {
+  border: none;
+  outline: none;
+  margin-left: 5px;
+  height: 40px;
+  width: 40px;
+  border-radius: 40px;
+  background-color: transparent;
+}

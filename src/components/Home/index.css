@@ -1,0 +1,139 @@
+.home-container {
+  background-color: #e4ebeb;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100vw;
+}
+.tracks-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  margin-top: 20px;
+}
+.search-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.search {
+  border: none;
+  outline: none;
+  padding-left: 12px;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.details-container {
+  background-color: #ffffff;
+  margin: 20px;
+  border-radius: 13px;
+}
+.details-heading {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #677880;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.table-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-element {
+  padding-left: 0px;
+  list-style: none;
+  width: 1020px;
+  padding: 10px;
+}
+.information-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 20px;
+}
+.heading {
+  font-size: 11px;
+}
+.results-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.result-1 {
+  background-color: #f2b713;
+
+  padding: 12px;
+  color: #ffffff;
+  width: 140px;
+
+  border-radius: 3px;
+  margin: 10px;
+  padding-bottom: 6px;
+}
+.result-3 {
+  background-color: #00ff80;
+
+  padding: 12px;
+  color: #ffffff;
+  width: 140px;
+  border-radius: 3px;
+  margin: 10px;
+  padding-bottom: 6px;
+}
+.result-2 {
+  background-color: #ff6666;
+
+  color: #ffffff;
+  padding: 12px;
+  color: #ffffff;
+  width: 140px;
+
+  border-radius: 3px;
+  margin: 10px;
+  padding-bottom: 6px;
+}
+.result-4 {
+  background-color: #66b3ff;
+
+  padding: 12px;
+  color: #ffffff;
+
+  border-radius: 3px;
+  margin: 10px;
+  padding-bottom: 6px;
+  width: 140px;
+}
+
+.number {
+  margin-bottom: 0px;
+}
+.select-item {
+  background-color: #e4ebeb;
+  outline-color: #2c559c;
+  padding: 4px;
+  border: none;
+  border-radius: 4px;
+  margin-right: 7px;
+}
+.date-element {
+  background-color: #e4ebeb;
+  outline-color: #2c559c;
+  padding: 4px;
+  border: none;
+  border-radius: 4px;
+}
+.heading {
+  font-size: 20px;
+}
